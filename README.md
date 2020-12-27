@@ -1,6 +1,6 @@
 <h1> Land cover classification </h1>
 <br/>
-<img src="https://github.com/sainosmichelle/Anaglifo/blob/master/images/retorno2.PNG"
+<img src="https://github.com/sainosmichelle/Anaglifo/blob/main/images/retorno2.PNG"
   width="500"
   height="400">
 
@@ -22,7 +22,7 @@ conda install numpy
 <h2>Corrección de desplazamiento</h2>
  Las  imágenes  estereoscópicas  no  abarcan  exactamente  la  misma  área,  i.e.  la  imagen izquerda  tiene  un  área  que  no  cubre  la  imagen  derecha  y visceversa. Esto representa un problema ya que si se realiza la fusión de ambas imágenes se observará que no coinciden en ningún punto y no se generará un buen anaglifo. La forma en la que se abordó este problema fue a través de un punto de control mediante el cual se asegura que ambas imágenes coinciden.
 
- <img src="https://github.com/sainosmichelle/Anaglifo/blob/master/images/retorno1.PNG"
+ <img src="https://github.com/sainosmichelle/Anaglifo/blob/main/images/retorno1.PNG"
   width="800"
   height="400">
 
