@@ -1,4 +1,4 @@
-<h1> Land cover classification </h1>
+<h1> Anaglifo</h1>
 <br/>
 <img src="https://github.com/sainosmichelle/Anaglifo/blob/main/images/retorno2.PNG"
   width="500"
